@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+
+  <!-- send urdf to param server -->
+
+  <!-- using udacity robot -->
+	<param name="robot_description" command="$(find xacro)/xacro --inorder '$(find slam_project)/urdf/slam_bot.xacro'" />
+
+
+</launch>

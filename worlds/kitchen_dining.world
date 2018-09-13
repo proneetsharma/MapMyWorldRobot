@@ -15,7 +15,7 @@
       <uri>model://sun</uri>
     </include>
     <include>
-      <uri>model://cafe</uri>
+      <uri>model://kitchen_dining</uri>
     </include>
   </world>
 </sdf>
